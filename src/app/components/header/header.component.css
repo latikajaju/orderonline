@@ -1,0 +1,12 @@
+#mainlogo{
+    max-width: 100%;
+    width: 30%;
+    padding: 2%;
+}
+
+.menutext{
+    font-size: 17px;
+    font-weight: 500;
+    font-family: inherit;
+    padding: 10%;
+}

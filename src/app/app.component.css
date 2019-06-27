@@ -1,0 +1,12 @@
+.nav-link {
+    cursor:pointer;
+  }
+
+  #clear{
+    clear: both;
+    height: 20px;
+  }
+
+.card{
+  width: 18rem;padding: 2%;margin: 2%;
+}
